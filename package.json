@@ -1,0 +1,19 @@
+{
+  "name": "gform-pptr-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reacto11mecha/gform-pptr-scrapper.git"
+  },
+  "author": "Ezra Khairan Permana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reacto11mecha/gform-pptr-scrapper/issues"
+  },
+  "homepage": "https://github.com/reacto11mecha/gform-pptr-scrapper#readme"
+}
