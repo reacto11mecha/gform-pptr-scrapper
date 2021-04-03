@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node scraper"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/reacto11mecha/gform-pptr-scrapper#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "puppeteer": "^8.0.0"
   }
 }
