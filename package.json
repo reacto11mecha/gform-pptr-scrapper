@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/reacto11mecha/gform-pptr-scrapper/issues"
   },
-  "homepage": "https://github.com/reacto11mecha/gform-pptr-scrapper#readme"
+  "homepage": "https://github.com/reacto11mecha/gform-pptr-scrapper#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
 }
